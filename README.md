@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon128.png" width="80" alt="Crisp Logo" />
+<img width="128" height="128" alt="Image" src="https://github.com/user-attachments/assets/b4ef3d36-fd34-4b97-9b86-63c537a8124c" />
 
 # ✦ Crisp
 
@@ -48,7 +48,7 @@ The real saving isn't just shorter prompts — it's the `Be concise. No filler.`
 <!-- Add screenshots here -->
 | Rewrite Modal | Settings | In-page Button |
 |:---:|:---:|:---:|
-| ![Modal](assets/modal.png) | ![Settings](assets/settings.png) | ![Button](assets/button.png) |
+| <img width="1159" height="572" alt="Image" src="https://github.com/user-attachments/assets/4f88b5b5-ac19-425b-8870-78e0087e88e5" /> | <img width="877" height="905" alt="Image" src="https://github.com/user-attachments/assets/dff84a93-de48-4a84-a5bd-a1693eaae0ec" /> | <img width="1217" height="402" alt="Image" src="https://github.com/user-attachments/assets/a63abf22-d447-4aeb-acb9-bdf6077b665b" /> |
 
 ---
 
