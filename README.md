@@ -171,8 +171,7 @@ Crisp classifies your prompt before doing anything:
 
 ### Built by [Divyansh Khandal](https://github.com/divyansh999-code)
 
-AI & Data Science Student · MBM Engineering College, Jodhpur
-SIH 2025 National Finalist · Building solo.
+AI & Data Science Student.
 
 <br/>
 
